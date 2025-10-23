@@ -1,0 +1,5 @@
+{
+  "name": "Smart Notes AI",
+  "description": "An intelligent note-generation app. Admins upload reference PDF books by subject, and users can generate concise, AI-powered notes and summaries on any topic derived from the uploaded materials.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,8 @@
+
+Flask
+pymongo[srv]
+python-dotenv
+werkzeug
+requests
+PyPDF2
+Flask-Cors
